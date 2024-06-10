@@ -172,13 +172,16 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .reservation__title {
   margin-top: 100px;
+  margin-left: auto;
   margin-bottom: 80px;
-  display: flex;
-  justify-content: center;
+  margin-right: auto;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
@@ -256,7 +259,7 @@
   justify-content: center;
 }
 
-.form__checkbox__input {
+.form__checkbox-input {
   height: 20px;
   width: 20px;
   margin-right: 12px;
