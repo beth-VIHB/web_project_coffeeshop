@@ -178,7 +178,7 @@
 }
 
 .reservation__title {
-  margin-top: auto;
+  margin-top: 0;
   margin-right: auto;
   margin-bottom: 80px;
   margin-left: auto;
