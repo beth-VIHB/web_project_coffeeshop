@@ -1,0 +1,38 @@
+.footer {
+  background-color: #0a2850;
+}
+
+.footer__content {
+}
+
+.footer__logo {
+}
+
+.footer__circle {
+  border-radius: 128px;
+  z-index: -1;
+  color: #2f80ed;
+}
+
+.footer__social {
+}
+
+.footer__social-heading {
+}
+
+.footer__list {
+}
+
+.footer__list-item {
+}
+
+.footer__social-link {
+}
+
+.footer__social-icon {
+}
+
+/* elementos hover */
+
+.footer__copyright {
+}
